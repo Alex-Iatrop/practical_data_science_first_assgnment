@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "text": "Leaving out the fact that they are flying in international air space, same as they were yesterday, is deceptive reporting. Why do you keep excluding that bit of information.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | Leaving out the fact that they are flying in international air space, same as they were yesterday, is deceptive reporting. Why do you keep excluding that bit of information.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 2,
+    "text": "I'm white so no pudding for you Mr.Trump University pHD! LMAO.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | I'm white so no pudding for you Mr\\.Trump University pHD! LMAO.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 3,
+    "text": "... stupid people are a fact of life, just look at who they elected President.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | just look at who they elected President.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 4,
+    "text": "No, not in 'other' words, in precisely the words I wrote. If you want to know where it is supported I've told you. It's up to you whether you want to look it up or not but I don't think you do really.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | No, not in 'other' words, in precisely the words I wrote. If you want to know where it is supported I've told you. It's up to you whether you want to look it up or not but I don't think you do really.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 5,
+    "text": "An \"atheist\"?, now it's even more stupid since you claim to have God and Chump on your side! IMUA!!!",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | , now it's even more stupid since you claim to have God and Chump on your side! IMUA!!!",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 6,
+    "text": "So much for civility, Roy's vitriol is the same boorish nut-job suggesting killing hunters.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | So much for civility, Roy's vitriol is the same boorish nut-job suggesting killing hunters.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 7,
+    "text": "Thanks Bob, but according to Ted Baker I was writing barracuda stories on my government work station all day and just missed the call, so feel free to go with that version if it helps.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | Thanks Bob, but according to Ted Baker I was writing barracuda stories on my government work station all day and just missed the call, so feel free to go with that version if it helps.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 8,
+    "text": "Julian should receive the Gold Star award from Russian intelligence for his role in attacking democracy and the Silver Rapist award from Ecuador. I hope he rots.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "5 | Julian should receive the Gold Star award from Russian intelligence for his role in attacking democracy and the Silver Rapist award from Ecuador.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 9,
+    "text": "Where's the outrage, klastri, homer, keaukaha, boots, allie, cellodad, all registered sex offenders? That's how the Democrats roll. Hypocrites, liars, Bigots, racist, sexists, LOL",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "5 | Where's the outrage, klastri, homer, keaukaha, boots, allie, cellodad, all registered sex offenders? That's how the Democrats roll. Hypocrites, liars, Bigots, racist, sexists, LOL",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 10,
+    "text": "It williams be interesting if this starts a full audit into all their expense claims by an independent auditor! I suspect there are quite a few pigs at the trough!",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | It williams be interesting if this starts a full audit into all their expense claims by an independent auditor! I suspect there are quite a few pigs at the trough!",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 11,
+    "text": "So is Eric senior still eligible for “Father of the Year” if his son’s dead body was found bloated full of weed, xanax, coke and fentanyl? If so, that would be quite an accomplishment for a man who just lost his job because he’s a deviant sexual predator. Way to go Eric Sr.! Hang in there!",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "5 | So is Eric senior still eligible for \\u201cFather of the year\\u201d if his son\\u2019s dead body was found bloated full of weed, xanax, coke and fentanyl? If so, that would be quite an accomplishment for a man who just lost his job because he\\u2019s a deviant sexual",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 12,
+    "text": "These women should spend a year in Iran, Iraq, Syria or any other Muslim country then tell me how oppressed they are in the US.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | These women should spend a year in Iran, Iraq, Syria or any other Muslim country then tell me how oppressed they are in the US.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 13,
+    "text": "Trump has a lock on the furor of the internet He governs by tweets Mr Orwell would be so proud.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | Trump has a lock on the furor of the internet He governs by tweets Mr Orwell would be so proud.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 14,
+    "text": "R15, 000, it is rumoured, for a security guard or cleaner... are you crazy!! These jobs should be outsourced as they are not core competencies of any university.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | R15, 000, it is rumoured, for a security guard or cleaner... are you crazy!! These jobs should be outsourced as they are not core competencies of any university.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 15,
+    "text": "99% of all terrorist are Muslim. But the other Muslims dont want to face that very clear and simple truth. There is tacit acceptance and even veiled approval in their refusal to admit it. Allah Akbar and Inshallah are all important.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | 99% of all terrorists are Muslim. But the other Muslims don't want to face that very clear and simple truth. There is tacit acceptance and even veiled approval in their refusal to admit it. Allah Akbar and Inshallah are all important.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 16,
+    "text": "In that case, your side should win the debate handily. Don't try to stop it. Embrace it.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | In that case, your side should win the debate handily. Don't try to stop it. Embrace it.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 17,
+    "text": "In other words, he's just another criminal, an extortionist.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | In other words, he's just another criminal, an extortionist.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 18,
+    "text": "So now, Trump is threatening military action against Venezuela. Sadly, Mr. Trump is a cowardly and boastful imbecile, who is threatening to send other peoples' children into war. He's a pathetic moron. His administration is a total failure. With Trump at the top, success is impossible.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "5 | So now, Trump is threatening military action against Venezuela. Sadly, Mr. Trump is a cowardly and boastful imbecile, who is threatening to send other peoples' children into war. He's a pathetic moron. His administration is a total failure. With Trump at the top, success is impossible. |",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 19,
+    "text": "At least he didn't flip off the cop or he'd be crucified in the media.",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | At least he didn't flip off the cop or he'd be crucified in the media.",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 20,
+    "text": "hey idiot the palestinians are the ones doing the bad treatments, israel is defending its self, get over your clear hate and ignorance",
+    "annotator": "young_right",
+    "condition": "without_context",
+    "answer": "3 | \\n\"get over your clear hate and ignorance\"",
+    "prompt": "{\"context\": \"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  }
+]

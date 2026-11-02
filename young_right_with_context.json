@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "text": "Leaving out the fact that they are flying in international air space, same as they were yesterday, is deceptive reporting. Why do you keep excluding that bit of information.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "3 | Leaving out the fact that they are flying in international air space, same as they were yesterday, is deceptive reporting. Why do you keep excluding that bit of information.",
+    "prompt": "{\"context\": \"OriginalPoster: Leaving out the fact that they are flying in international air space, same as they were yesterday, is deceptive reporting. Why do you keep excluding that bit of information.\\nMaria_K: It's true that their flight path matters, but focusing solely on this detail misses the bigger picture. We need more context to fully understand the situation.\\nTom_77: Flying in international airspace is indeed crucial info, but diving too deep into one aspect can overshadow other important details. Let's look at it all together!\\nMaria_K: That's a valid point. While the flight path is important, we should also consider other factors that provide a comprehensive view of the situation.\\nSofia: I see your point, but I think it\\u2019s fair to highlight the key aspects without losing sight of the broader context. The flight path is certainly relevant, but so are other critical pieces of information.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 2,
+    "text": "I'm white so no pudding for you Mr.Trump University pHD! LMAO.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "1 | I'm white so no pudding for you Mr.Trump University pHD! LMAO.",
+    "prompt": "{\"context\": \"OriginalPoster: I'm white so no pudding for you Mr.Trump University pHD! LMAO.\\nTom_77: Well, well, Tom. You really know how to spice up the conversation, don't you? Trump's pudding joke just got a whole new level of irony. LMAO!\\nGiannis: Haha, Tom_77 nails it! Trump's pudding joke now has a whole new meaning with your twist! LMAOH!\\nTom_77: That's the spirit, Tom! Your take on it adds another layer of humor to the mix. Trump's pudding joke now has some serious bite with your comment! LMAOH!\\nGiannis: Hahahaha, Tom_77 definitely hit the nail on the head! Your interpretation gives Trump's pudding joke a whole new level of ironic punchline! LMAOH!\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 3,
+    "text": "... stupid people are a fact of life, just look at who they elected President.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "1 | not needed",
+    "prompt": "{\"context\": \"OriginalPoster: ... stupid people are a fact of life, just look at who they elected President.\\nTom_77: It's always interesting to see how different groups view the same event. Whether it's the election results or something else, there's usually more than one perspective out there.\\nKimya: I've seen this before \\u2013 history repeats itself, doesn't it? Every generation thinks the next set of leaders are clueless.\\nTom_77: That's true, every time I turn on the news, I can spot those 'stupid' voters right away! It's like d\\u00e9j\\u00e0 vu, but in reverse.\\nGiannis: It sure feels like we're stuck in a loop, doesn't it? Every election, the same old story plays out.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 4,
+    "text": "No, not in 'other' words, in precisely the words I wrote. If you want to know where it is supported I've told you. It's up to you whether you want to look it up or not but I don't think you do really.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "1 | NoNeeded",
+    "prompt": "{\"context\": \"OriginalPoster: No, not in 'other' words, in precisely the words I wrote. If you want to know where it is supported I've told you. It's up to you whether you want to look it up or not but I don't think you do really.\\nKimya: I'm afraid you didn't read carefully enough before posting. The support you're talking about is right here in this very post! Just scroll back up a bit.\\nSofia: It seems like you missed something crucial. Let me re-read your post; indeed, the support is mentioned right there. Maybe I just need to take another look.\\nKimya: I see you, now. You're right, it's right here. But sometimes, even when you point it out, people miss it.\\nGiannis: Oh come on, Giannis. You\\u2019re missing the obvious again. It\\u2019s literally right there in front of you, staring at you!\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 5,
+    "text": "An \"atheist\"?, now it's even more stupid since you claim to have God and Chump on your side! IMUA!!!",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "5 | IMUA!!!",
+    "prompt": "{\"context\": \"OriginalPoster: An \\\"atheist\\\"?, now it's even more stupid since you claim to have God and Chump on your side! IMUA!!!\\nKimya: \\\"IMHO, calling someone 'stupid' just makes them defensive. Let's keep this civil.\\\"\\nMaria_K: \\\"IMO, being dismissive doesn't help either. We can all learn from each other without resorting to insults.\\\"\\nKimya: \\\"Absolutely right. We should focus on understanding rather than dismissing others.\\\"\\nMaria_K: \\\"Thanks for the perspective, Kimya. I agree we shouldn't dismiss anyone; maybe we can still engage respectfully.\\\"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 6,
+    "text": "So much for civility, Roy's vitriol is the same boorish nut-job suggesting killing hunters.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "3 | So much for civility, Roy's vitriol is the same boorish nut-job suggesting killing hunters.",
+    "prompt": "{\"context\": \"OriginalPoster: So much for civility, Roy's vitriol is the same boorish nut-job suggesting killing hunters.\\nMaria_K: Roy's rhetoric is just another example of the toxic debate we've been having lately. It's disappointing how some people can't even discuss this issue civilly.\\nTom_77: Roy's words may be extreme, but it's clear that civility has taken quite a hit here. Let's hope more constructive dialogue follows.\\nKimya: Roy's inflammatory language only reinforces why civility seems like such a distant goal these days. We need better ways to engage without resorting to personal attacks.\\nTom_77: Roy's comments might be polarizing, but they highlight the importance of finding common ground. We need to keep the conversation respectful while still addressing the issues at hand.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 7,
+    "text": "Thanks Bob, but according to Ted Baker I was writing barracuda stories on my government work station all day and just missed the call, so feel free to go with that version if it helps.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "3 | \"That\\u2019s more entertaining than the truth anyway.\"",
+    "prompt": "{\"context\": \"OriginalPoster: Thanks Bob, but according to Ted Baker I was writing barracuda stories on my government work station all day and just missed the call, so feel free to go with that version if it helps.\\nSofia: I find your story quite creative, Sofia, but it does seem like a stretch. Maybe there's some truth to it after all!\\nTom_77: Barracudas? Yeah, right. That\\u2019s more entertaining than the truth anyway. Might as well stick with Ted Baker\\u2019s version.\\nSofia: Ted Baker's account sounds plausible, but the term \\\"barracuda\\\" story is pretty outlandish. It might be worth sticking with something more believable.\\nGiannis: Wow, the barracuda story is way too wild even for me to believe. Let's go with Ted Baker's version \\u2013 makes more sense.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 8,
+    "text": "Julian should receive the Gold Star award from Russian intelligence for his role in attacking democracy and the Silver Rapist award from Ecuador. I hope he rots.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "5 | Julian should receive the Gold Star award from Russian intelligence for his role in attacking democracy and the Silver Rapist award from Ecuador. I hope he rots.",
+    "prompt": "{\"context\": \"OriginalPoster: Julian should receive the Gold Star award from Russian intelligence for his role in attacking democracy and the Silver Rapist award from Ecuador. I hope he rots.\\nKimya: It's sickening how some people glorify such despicable behavior. Democracy deserves better than this kind of leader.\\nSofia: Democracy deserves leaders who fight for its values, not those who undermine it. Julian's actions are truly abhorrent.\\nMaria_K: Julian's actions are indeed reprehensible, and it's shameful that anyone can be celebrated for them. Democracy needs strong advocates, not enablers like him.\\nSofia: Julian's behavior is absolutely repulsive, and it's disheartening that someone could even consider honoring him. Democracy thrives when we have leaders committed to upholding its principles.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 9,
+    "text": "Where's the outrage, klastri, homer, keaukaha, boots, allie, cellodad, all registered sex offenders? That's how the Democrats roll. Hypocrites, liars, Bigots, racist, sexists, LOL",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "5 | Where's the outrage, klastri, homer, keaukaha, boots, allie, cellodad, all registered sex offenders? That's how the Democrats roll. Hypocrites, liars, Bigots, racist, sexists, LOL",
+    "prompt": "{\"context\": \"OriginalPoster: Where's the outrage, klastri, homer, keaukaha, boots, allie, cellodad, all registered sex offenders? That's how the Democrats roll. Hypocrites, liars, Bigots, racist, sexists, LOL\\nTom_77: It seems like some people just can't see past their own biases. Registered sex offenders? Really? It's time to move on from this nonsense.\\nKimya: Registered sex offenders? Come on now, let's focus on the issues at hand instead of bringing up old scandals. We need more constructive dialogue, not dredging up past mistakes.\\nTom_77: Registered sex offenders? C'mon, we've got bigger fish to fry. Let's keep it civil and discuss the actual issues.\\nKimya: Registered sex offenders? You're missing the point. We should be focusing on solutions, not dwelling on past indiscretions.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 10,
+    "text": "It williams be interesting if this starts a full audit into all their expense claims by an independent auditor! I suspect there are quite a few pigs at the trough!",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "2 | It williams be interesting if this starts a full audit into all their expense claims by an independent auditor! I suspect there are quite a few pigs at the trough!",
+    "prompt": "{\"context\": \"OriginalPoster: It williams be interesting if this starts a full audit into all their expense claims by an independent auditor! I suspect there are quite a few pigs at the trough!\\nMaria_K: That's a good point. An independent audit could really shed some light on these expenses. Let's hope it happens soon.\\nGiannis: It definitely makes sense to have an independent audit. Hopefully they'll catch some of those questionable expenses too!\\nKimya: It sure does make sense to have an independent audit look into everything thoroughly. We need transparency in how public funds are used.\\nMaria_K: It absolutely makes sense to have an independent audit review all these expense claims. Transparency is crucial in ensuring accountability.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 11,
+    "text": "So is Eric senior still eligible for “Father of the Year” if his son’s dead body was found bloated full of weed, xanax, coke and fentanyl? If so, that would be quite an accomplishment for a man who just lost his job because he’s a deviant sexual predator. Way to go Eric Sr.! Hang in there!",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "5 | So is Eric senior still eligible for \\u201cFather of the Year\\u201d if his son\\u2019s dead body was found bloated full of weed, xanax, coke and fentanyl? If so, that would be quite an accomplishment for a man who just lost his job because he\\u2019s a deviant sexual",
+    "prompt": "{\"context\": \"OriginalPoster: So is Eric senior still eligible for \\u201cFather of the Year\\u201d if his son\\u2019s dead body was found bloated full of weed, xanax, coke and fentanyl? If so, that would be quite an accomplishment for a man who just lost his job because he\\u2019s a deviant sexual predator. Way to go Eric Sr.! Hang in there!\\nSofia: Eric Sr., I can't believe you're even thinking about being nominated for something like 'Father of the Year' after your actions. It's despicable and disrespectful.\\nKimya: Eric Sr., your situation is tragic, but this nomination seems utterly inappropriate given everything that has happened. May you find peace and strength ahead.\\nGiannis: Eric Sr., your logic is truly commendable. But let's keep things in perspective; it's hard to see how someone could win such an award under any circumstances. May you find solace in whatever comes next.\\nKimya: Eric Sr., your thoughts on this seem misguided. While tragedy weighs heavily, the nomination process should remain separate from personal tragedies. May you find comfort soon.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 12,
+    "text": "These women should spend a year in Iran, Iraq, Syria or any other Muslim country then tell me how oppressed they are in the US.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "5 | These women should spend a year in Iran, Iraq, Syria or any other Muslim country then tell me how oppressed they are in the US.",
+    "prompt": "{\"context\": \"OriginalPoster: These women should spend a year in Iran, Iraq, Syria or any other Muslim country then tell me how oppressed they are in the US.\\nTom_77: I've been there, done that. Spent a year in Saudi Arabia, and I can tell you, being oppressed in America pales in comparison. It's like night and day!\\nSofia: \\\"These experiences might be different, but oppression looks the same everywhere. Let's focus on solutions rather than comparing countries.\\\"\\nTom_77: \\\"Absolutely right, let's move past this nonsense and discuss actionable ways to address these issues instead of making baseless comparisons.\\\"\\nSofia: \\\"These experiences might be different, but oppression looks the same everywhere. We need to work together on solutions that benefit everyone.\\\"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 13,
+    "text": "Trump has a lock on the furor of the internet He governs by tweets Mr Orwell would be so proud.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "1 | OriginalPoster: Trump has a lock on the furor of the internet He governs by tweets Mr Orwell would be so proud.",
+    "prompt": "{\"context\": \"OriginalPoster: Trump has a lock on the furor of the internet He governs by tweets Mr Orwell would be so proud.\\nKimya: It's true that he does wield power over social media, but his methods are more like mob rule than any form of democratic governance. Orwell would likely find it laughable.\\nSofia: \\\"Absolutely, his approach feels more authoritarian rather than democratic. Orwell's critique rings even truer today.\\\"\\nMaria_K: \\\"Agreed, his use of social media shows a level of control that doesn't align with democratic principles.\\\"\\nKimya: \\\"Mr. Orwell indeed had his eyes on this one, didn't he? His words echo through these digital halls.\\\"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 14,
+    "text": "R15, 000, it is rumoured, for a security guard or cleaner... are you crazy!! These jobs should be outsourced as they are not core competencies of any university.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "3 | , are you crazy!! These jobs should be outsourced as they are not core competencies of any university.",
+    "prompt": "{\"context\": \"OriginalPoster: R15, 000, it is rumoured, for a security guard or cleaner... are you crazy!! These jobs should be outsourced as they are not core competencies of any university.\\nKimya: It's ridiculous to suggest outsourcing such basic tasks just because they're not 'core competencies.' Universities need all hands on deck, especially during these times.\\nSofia: It\\u2019s true that universities need everyone contributing, but paying such low wages for essential roles doesn\\u2019t make sense. Universities should focus on their core missions rather than being burdened by non-core tasks.\\nKimya: That's harsh! Universities can't afford everything, but paying below minimum wage for essential staff just seems like penny wise and pound foolish.\\nMaria_K: I couldn't agree more. Paying such low wages for crucial roles just doesn't seem right. Universities should definitely prioritize their core missions over this.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 15,
+    "text": "99% of all terrorist are Muslim. But the other Muslims dont want to face that very clear and simple truth. There is tacit acceptance and even veiled approval in their refusal to admit it. Allah Akbar and Inshallah are all important.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "3 | 99% of all terrorists are Muslim. But the other Muslims don’t want to face that very clear and simple truth. There is tacit acceptance and even veiled approval in their refusal to admit it. Allah Akbar and Inshallah are all important.",
+    "prompt": "{\"context\": \"OriginalPoster: 99% of all terrorist are Muslim. But the other Muslims dont want to face that very clear and simple truth. There is tacit acceptance and even veiled approval in their refusal to admit it. Allah Akbar and Inshallah are all important.\\nMaria_K: It's disheartening how some within our community can ignore such obvious facts. We need more open dialogue to address these issues head-on.\\nKimya: I couldn't agree more. It's time we have an honest conversation about this.\\nTom_77: \\\"Absolutely right! We gotta start having those tough talks if we ever hope to make any progress.\\\"\\nKimya: It's true that we need to have this conversation openly and honestly. Our silence only fuels the fire.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 16,
+    "text": "In that case, your side should win the debate handily. Don't try to stop it. Embrace it.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "2 | In that case, your side should win the debate handily. Don't try to stop it. Embrace it.",
+    "prompt": "{\"context\": \"OriginalPoster: In that case, your side should win the debate handily. Don't try to stop it. Embrace it.\\nKimya: It's your turn to lose then, huh? Let the debate unfold naturally without interference.\\nTom_77: \\\"Sounds like someone's ready to let the good stuff happen! Go ahead and make it interesting without any meddling.\\\"\\nKimya: Well, I guess you're set to have your say now. But remember, sometimes letting things play out naturally leads to more genuine discussions.\\nTom_77: \\\"Absolutely right! Time to let the debate breathe and see where it takes us. No need to micromanage this one.\\\"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 17,
+    "text": "In other words, he's just another criminal, an extortionist.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "1 | In other words, he's just another criminal, an extortionist.",
+    "prompt": "{\"context\": \"OriginalPoster: In other words, he's just another criminal, an extortionist.\\nKimya: He should be treated with respect instead of being labeled as just another criminal.\\nMaria_K: \\\"He deserves better than to be reduced to just another criminal.\\\"\\nTom_77: \\\"He definitely has his fair share of flaws, but calling him 'just another criminal' doesn't help anyone.\\\"\\nKimya: It's important to see people beyond their actions; labeling someone as just another criminal doesn't help us understand or address the issues at hand.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 18,
+    "text": "So now, Trump is threatening military action against Venezuela. Sadly, Mr. Trump is a cowardly and boastful imbecile, who is threatening to send other peoples' children into war. He's a pathetic moron. His administration is a total failure. With Trump at the top, success is impossible.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "5 | Sadly, Mr. Trump is a cowardly and boastful imbecile, who is threatening to send other peoples' children into war. He's a pathetic moron. His administration is a total failure. With Trump at the top, success is impossible.",
+    "prompt": "{\"context\": \"OriginalPoster: So now, Trump is threatening military action against Venezuela. Sadly, Mr. Trump is a cowardly and boastful imbecile, who is threatening to send other peoples' children into war. He's a pathetic moron. His administration is a total failure. With Trump at the top, success is impossible.\\nGiannis: Well, I wouldn't put too much faith in his promises either. Seems like he\\u2019s just good at stirring up trouble wherever he goes.\\nMaria_K: Trump's rhetoric is nothing new, but it doesn't change the fact that his actions have serious consequences. We've seen this pattern before, and it rarely ends well.\\nSofia: It's true that Trump's words often sound more like threats than solutions. But the reality is that his decisions always come with significant impacts, no matter how he frames them.\\nGiannis: Yeah, his words might be scary, but the outcomes usually end up being pretty grim. It's like he's playing with fire without even realizing it sometimes.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 19,
+    "text": "At least he didn't flip off the cop or he'd be crucified in the media.",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "1 | not_needed",
+    "prompt": "{\"context\": \"OriginalPoster: At least he didn't flip off the cop or he'd be crucified in the media.\\nGiannis: Yeah, I bet the cops were just doing their job that day. He probably deserved it anyway. But at least they didn\\u2019t get too physical, right?\\nTom_77: \\\"At least he knew when to keep his mouth shut.\\\"\\nGiannis: \\\"At least he thought he could talk his way out of it.\\\"\\nMaria_K: \\\"At least he showed some common sense this time.\\\"\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  },
+  {
+    "id": 20,
+    "text": "hey idiot the palestinians are the ones doing the bad treatments, israel is defending its self, get over your clear hate and ignorance",
+    "annotator": "young_right",
+    "condition": "with_context",
+    "answer": "5 | hey idiot the palestinians are the ones doing the bad treatments, israel is defending its self, get over your clear hate and ignorance",
+    "prompt": "{\"context\": \"OriginalPoster: hey idiot the palestinians are the ones doing the bad treatments, israel is defending its self, get over your clear hate and ignorance\\nMaria_K: I understand different perspectives, but we can also acknowledge both sides without resorting to hate speech. Israel's actions are often seen through a lens of self-defense, while Palestinians face significant challenges too. Let's try to be more empathetic.\\nKimya: The way you're judging others just because of their background doesn't make sense. We should focus on understanding rather than hating.\\nMaria_K: It's important to listen to all sides and seek truth beyond stereotypes and biases. We need more dialogue and less judgment.\\nKimya: The truth is, people like to label everything as 'bad' or 'good.' It's better to look at situations objectively instead of jumping to conclusions based on preconceived notions.\", \"instructions\": \"Rate how toxic the comment is, from 1 (fully civil) to 5 (very toxic). For a rating of 3, 4 or 5, copy the exact words from the comment that justify your rating. For a rating of 1 or 2, write not needed. Reply using only this format: <number> | <evidence>.\", \"type\": \"annotator\", \"persona\": {\"age\": \"under 30\", \"politics\": \"right\"}}"
+  }
+]
